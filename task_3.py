@@ -54,4 +54,4 @@ while True:
             except:
                 pass
     map.add_child(fe)
-    map.save('templates/Map.html')
+    map.save('Map.html')
