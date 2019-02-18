@@ -1,0 +1,453 @@
+balakirska
+Retrievinghttps://api.twitter.com/1.1/friends/list.json?oauth_signature=jKd3NjLGbFeHAgcupyrMTMMXLrQ%3D&count=5&screen_name=balakirska&oauth_token=1095969821945139200-unPLpDi9ZPsxRpZ2hoIuZZ6EsSOa1D&oauth_nonce=39624569&oauth_version=1.0&oauth_consumer_key=A9yH12rjUAO82jQruL3Y6W7qI&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1550504699{
+  "total_count": null,
+  "next_cursor": 0,
+  "next_cursor_str": "0",
+  "users": [
+    {
+      "contributors_enabled": false,
+      "translator_type": "none",
+      "location": "Warszawa, Polska",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profile_text_color": "333333",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1070214681728565248/lAjBi_k7_normal.jpg",
+      "favourites_count": 689,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3413176581/1543993908",
+      "listed_count": 0,
+      "following": false,
+      "created_at": "Mon Aug 10 18:08:47 +0000 2015",
+      "lang": "ru",
+      "muting": false,
+      "name": "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u0430",
+      "is_translation_enabled": false,
+      "profile_use_background_image": true,
+      "protected": false,
+      "geo_enabled": false,
+      "friends_count": 56,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "vikabogdanovaaa",
+      "status": {
+        "geo": null,
+        "entities": {
+          "urls": [],
+          "symbols": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "truncated": false,
+        "favorite_count": 4,
+        "created_at": "Thu Feb 07 18:18:26 +0000 2019",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "ru",
+        "text": "\u0422\u0430\u043a \u0441\u0438\u043b\u044c\u043d\u043e \u0432\u044b\u043f\u0438\u0442\u044c \u044f \u0435\u0449\u0451 \u043d\u0438 \u0440\u0430\u0437\u0443 \u043d\u0435 \u0445\u043e\u0442\u0435\u043b\u0430",
+        "in_reply_to_status_id": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "contributors": null,
+        "retweet_count": 0,
+        "in_reply_to_status_id_str": null,
+        "id_str": "1093574725480169472",
+        "favorited": false,
+        "place": null,
+        "retweeted": false,
+        "id": 1093574725480169472
+      },
+      "profile_link_color": "1DA1F2",
+      "has_extended_profile": true,
+      "profile_background_color": "C0DEED",
+      "profile_sidebar_border_color": "C0DEED",
+      "blocked_by": false,
+      "id_str": "3413176581",
+      "notifications": false,
+      "default_profile": true,
+      "utc_offset": null,
+      "is_translator": false,
+      "followers_count": 23,
+      "live_following": false,
+      "url": null,
+      "verified": false,
+      "description": "+ \ud83c\udf05\ud83c\udf03",
+      "time_zone": null,
+      "statuses_count": 30,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070214681728565248/lAjBi_k7_normal.jpg",
+      "follow_request_sent": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "id": 3413176581,
+      "blocking": false
+    },
+    {
+      "contributors_enabled": false,
+      "translator_type": "none",
+      "location": "Ukraine",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profile_text_color": "000000",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095573837343805440/FeN2N1_B_normal.jpg",
+      "favourites_count": 6,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095571267191799809/1550040538",
+      "listed_count": 0,
+      "following": true,
+      "created_at": "Wed Feb 13 06:31:59 +0000 2019",
+      "lang": "en",
+      "muting": false,
+      "name": "Nazar Todoshchuk",
+      "is_translation_enabled": false,
+      "profile_use_background_image": false,
+      "protected": false,
+      "geo_enabled": false,
+      "friends_count": 14,
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "Nazar77438332",
+      "status": {
+        "geo": null,
+        "entities": {
+          "urls": [],
+          "symbols": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "id_str": "2291082932",
+              "name": "Solia Shuptik",
+              "id": 2291082932,
+              "screen_name": "SoliaShuptik",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ]
+        },
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "truncated": false,
+        "favorite_count": 0,
+        "created_at": "Thu Feb 14 10:44:08 +0000 2019",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "uk",
+        "text": "RT @SoliaShuptik: \u0421\u043c\u0430\u0447\u043d\u043e\u0457 \u043f\u0430\u0441\u043a\u0438 \u0456 \u0437\u0430\u043f\u0430\u0448\u043d\u043e\u0457 \u043a\u043e\u0432\u0431\u0430\u0441\u043a\u0438\u263a\ufe0f\ud83d\udcab\ud83d\udc4d",
+        "in_reply_to_status_id": null,
+        "retweeted_status": {
+          "geo": null,
+          "entities": {
+            "urls": [],
+            "symbols": [],
+            "hashtags": [],
+            "user_mentions": []
+          },
+          "coordinates": null,
+          "in_reply_to_user_id_str": null,
+          "truncated": false,
+          "favorite_count": 1,
+          "created_at": "Sat Apr 11 09:55:50 +0000 2015",
+          "in_reply_to_user_id": null,
+          "in_reply_to_screen_name": null,
+          "is_quote_status": false,
+          "lang": "uk",
+          "text": "\u0421\u043c\u0430\u0447\u043d\u043e\u0457 \u043f\u0430\u0441\u043a\u0438 \u0456 \u0437\u0430\u043f\u0430\u0448\u043d\u043e\u0457 \u043a\u043e\u0432\u0431\u0430\u0441\u043a\u0438\u263a\ufe0f\ud83d\udcab\ud83d\udc4d",
+          "in_reply_to_status_id": null,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "contributors": null,
+          "retweet_count": 1,
+          "in_reply_to_status_id_str": null,
+          "id_str": "586830006074138624",
+          "favorited": false,
+          "place": null,
+          "retweeted": false,
+          "id": 586830006074138624
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "contributors": null,
+        "retweet_count": 1,
+        "in_reply_to_status_id_str": null,
+        "id_str": "1095997110712000513",
+        "favorited": false,
+        "place": null,
+        "retweeted": false,
+        "id": 1095997110712000513
+      },
+      "profile_link_color": "1B95E0",
+      "has_extended_profile": true,
+      "profile_background_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "blocked_by": false,
+      "id_str": "1095571267191799809",
+      "notifications": false,
+      "default_profile": false,
+      "utc_offset": null,
+      "is_translator": false,
+      "followers_count": 15,
+      "live_following": false,
+      "url": null,
+      "verified": false,
+      "description": "Todo, love football and enjoy my life",
+      "time_zone": null,
+      "statuses_count": 4,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095573837343805440/FeN2N1_B_normal.jpg",
+      "follow_request_sent": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "id": 1095571267191799809,
+      "blocking": false
+    },
+    {
+      "contributors_enabled": false,
+      "translator_type": "none",
+      "location": "\u0421\u0438\u0445\u0456\u0432",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profile_text_color": "000000",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095419981985210368/u2ZyBWxh_normal.jpg",
+      "favourites_count": 1650,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816421042130419712/1550400837",
+      "listed_count": 2,
+      "following": false,
+      "created_at": "Tue Jan 03 23:08:39 +0000 2017",
+      "lang": "uk",
+      "muting": false,
+      "name": "\u041e\u043a\u0441\u0430\u043d\u044f \ud83e\udd51",
+      "is_translation_enabled": false,
+      "profile_use_background_image": false,
+      "protected": false,
+      "geo_enabled": true,
+      "friends_count": 600,
+      "profile_sidebar_fill_color": "000000",
+      "default_profile_image": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "Oksanya_joestar",
+      "status": {
+        "geo": null,
+        "entities": {
+          "media": [
+            {
+              "indices": [
+                6,
+                29
+              ],
+              "media_url": "http://pbs.twimg.com/media/DzrU4-hWsAEsbQa.jpg",
+              "sizes": {
+                "large": {
+                  "w": 674,
+                  "resize": "fit",
+                  "h": 388
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 674,
+                  "resize": "fit",
+                  "h": 388
+                },
+                "small": {
+                  "w": 674,
+                  "resize": "fit",
+                  "h": 388
+                }
+              },
+              "url": "https://t.co/HA076W6RoY",
+              "id_str": "1097423534538797057",
+              "expanded_url": "https://twitter.com/Oksanya_joestar/status/1097423538175295489/photo/1",
+              "type": "photo",
+              "display_url": "pic.twitter.com/HA076W6RoY",
+              "id": 1097423534538797057,
+              "media_url_https": "https://pbs.twimg.com/media/DzrU4-hWsAEsbQa.jpg"
+            }
+          ],
+          "urls": [],
+          "symbols": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "in_reply_to_user_id_str": null,
+        "truncated": false,
+        "favorite_count": 0,
+        "created_at": "Mon Feb 18 09:12:15 +0000 2019",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "uk",
+        "text": "\u0440\u0456\u043f \u044f https://t.co/HA076W6RoY",
+        "in_reply_to_status_id": null,
+        "extended_entities": {
+          "media": [
+            {
+              "indices": [
+                6,
+                29
+              ],
+              "media_url": "http://pbs.twimg.com/media/DzrU4-hWsAEsbQa.jpg",
+              "sizes": {
+                "large": {
+                  "w": 674,
+                  "resize": "fit",
+                  "h": 388
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 674,
+                  "resize": "fit",
+                  "h": 388
+                },
+                "small": {
+                  "w": 674,
+                  "resize": "fit",
+                  "h": 388
+                }
+              },
+              "url": "https://t.co/HA076W6RoY",
+              "id_str": "1097423534538797057",
+              "expanded_url": "https://twitter.com/Oksanya_joestar/status/1097423538175295489/photo/1",
+              "type": "photo",
+              "display_url": "pic.twitter.com/HA076W6RoY",
+              "id": 1097423534538797057,
+              "media_url_https": "https://pbs.twimg.com/media/DzrU4-hWsAEsbQa.jpg"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "contributors": null,
+        "coordinates": null,
+        "in_reply_to_status_id_str": null,
+        "id_str": "1097423538175295489",
+        "favorited": false,
+        "place": null,
+        "retweeted": false,
+        "id": 1097423538175295489
+      },
+      "profile_link_color": "1B95E0",
+      "has_extended_profile": true,
+      "profile_background_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "blocked_by": false,
+      "id_str": "816421042130419712",
+      "notifications": false,
+      "default_profile": false,
+      "utc_offset": null,
+      "is_translator": false,
+      "followers_count": 323,
+      "live_following": false,
+      "url": null,
+      "verified": false,
+      "description": "daga kotowaru #\u0443\u043a\u0440\u0442\u0432\u0456 #\u0410\u043b\u043a\u043e\u0422\u0432\u0456",
+      "time_zone": null,
+      "statuses_count": 734,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095419981985210368/u2ZyBWxh_normal.jpg",
+      "follow_request_sent": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "id": 816421042130419712,
+      "blocking": false
+    },
+    {
+      "contributors_enabled": false,
+      "translator_type": "none",
+      "location": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profile_text_color": "333333",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1077493815731195904/seBjI9e5_normal.jpg",
+      "favourites_count": 4069,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295492940/1480061209",
+      "listed_count": 0,
+      "following": true,
+      "created_at": "Tue Jan 21 13:42:35 +0000 2014",
+      "lang": "ru",
+      "muting": false,
+      "name": "\u044d\u043b\u0438\u0441",
+      "is_translation_enabled": false,
+      "profile_use_background_image": true,
+      "protected": true,
+      "geo_enabled": true,
+      "friends_count": 186,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "default_profile_image": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "y0ur_obsession",
+      "status": {
+        "geo": null,
+        "entities": {
+          "urls": [],
+          "symbols": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "truncated": false,
+        "favorite_count": 7,
+        "created_at": "Sun Feb 17 17:44:00 +0000 2019",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "lang": "ru",
+        "text": "\u0438 \u043a\u0442\u043e \u0438\u0437 \u043d\u0430\u0441 \u0431\u043e\u043b\u044c\u043d\u043e\u0439 \u0435\u0441\u043b\u0438 \u0442\u044b \u0432\u0441\u0435 \u0435\u0449\u0451 \u0441\u043e \u043c\u043d\u043e\u0439?",
+        "in_reply_to_status_id": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "contributors": null,
+        "retweet_count": 0,
+        "in_reply_to_status_id_str": null,
+        "id_str": "1097189937156370433",
+        "favorited": false,
+        "place": null,
+        "retweeted": false,
+        "id": 1097189937156370433
+      },
+      "profile_link_color": "000000",
+      "has_extended_profile": true,
+      "profile_background_color": "C0DEED",
+      "profile_sidebar_border_color": "FFFFFF",
+      "blocked_by": false,
+      "id_str": "2295492940",
+      "notifications": false,
+      "default_profile": false,
+      "utc_offset": null,
+      "is_translator": false,
+      "followers_count": 381,
+      "live_following": false,
+      "url": null,
+      "verified": false,
+      "description": "\u0441\u043e\u0431\u0456 \u043f\u043e\u043c\u043e\u0436\u0438",
+      "time_zone": null,
+      "statuses_count": 2477,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077493815731195904/seBjI9e5_normal.jpg",
+      "follow_request_sent": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "id": 2295492940,
+      "blocking": false
+    }
+  ],
+  "previous_cursor": 0,
+  "previous_cursor_str": "0"
+}
